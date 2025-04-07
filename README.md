@@ -1,0 +1,1 @@
+use this to split large file into multiple small files so they can be sent on things like discord which limit file sizes, the person downloading the file can use this program to combine them back into the original
